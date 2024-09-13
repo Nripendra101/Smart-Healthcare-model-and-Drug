@@ -1,12 +1,12 @@
 
-
+Technologies used:
 Download Anaconda from Anacond Archieve (https://repo.anaconda.com/archive/): Below is the exactly link we used 
 https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe
 
 Download DBBrowser for SQLITE database
 https://sqlitebrowser.org/dl/
 
-Technologies used:
+
 asgiref==3.8.1  
 Django==4.0  
 joblib==1.3.2  
@@ -23,7 +23,7 @@ NOTE: Make sure your Anacond has sckit-learn==1.2.2 (To see this, open anaconda 
 
 # Quick Way To Run project
 Open CMD/cterminal then clone the repository, 
-# git clone https://github.com/MoTechStore/Machine-Learning-Disease-Prediction-And-Drug-Recommendation.git
+
 then create Python virtual environment 
 # python -m venv venv 
 then change directory to system 
